@@ -15,7 +15,7 @@ Linux komandas
 
 - whoami - komanda pasaka, kurš lietotājs pieslēdzies
 - who - parāda cik daudz un kādi lietotāji pieslēgušies
-- pwd - displays the present working directory
+- pwd - parāda esošo direktoriju
 - exit - iziet
 - last - parāda lietotājus, kas un cikos bija pieslēgušies ierīcei
 - pwd - print working directory
