@@ -62,3 +62,36 @@ quit
    58  ls -lt
    59  history
    60  history > history_20220923.txt 
+   61  ls -lt
+   62  mv ../hello-world ./
+   63  ls -lt
+   64  git-upload
+   65  cd
+   66  pwd
+   67  ls -lt
+   68  ped
+   69  pwd
+   70  rm -rf RTR105
+   71  pwd
+   72  ls -lt
+   73  git clone https://github.com/Edza42/RTR105
+   74  cd RTR
+   75  cd RTR105/
+   76  ls -lt
+   77  nano git-upload 
+   78  pwd
+   79  ls -lt
+   80  nano Linux spcial variables test.sh
+   81  nano Linux-special-variables-test.sh
+   82  ls
+   83  chmod +x Linux-special-variables-test.sh 
+   84  nano Linux-special-variables-test.sh 
+   85  ls -lt
+   86  nano Linux-special-variables-test.sh 
+   87  Linux-special-variables-test.sh 
+   88  /home/user/RTR105/Linux-special-variables-test.sh 
+   89  nano Linux-special-variables-test.sh 
+   90  mv
+   91  ls -lt
+   92  nano git-upload 
+   93  history > history_20220923.txt
