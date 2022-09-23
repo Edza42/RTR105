@@ -95,3 +95,13 @@ quit
    91  ls -lt
    92  nano git-upload 
    93  history > history_20220923.txt
+   94  nano git-upload
+   95  git-upload
+   96  ls
+   97  echo $?
+   98  lss
+   99  pwdd
+  100  echo $?
+  101  hello-world 
+  102  ./hello-world 
+  103  history > history_20220923.txt
