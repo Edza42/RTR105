@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ils
+    4  -ls
+    5  lsls
+    6  ls
+    7  man ls
+    8  whereis ls
+    9  pwd
+   10  ls -l ?bin/ls
+   11  ls -l bin/ls
+   12  ls
+   13  cd
+   14  ped
+   15  pwd
+   16  whereis ls
+   17  ls -lt /bin/ls
+   18  cat /bin/ls
+   19  clear
+   20  ls
+   21  where is ls
+   22  whereis ls
+   23  hello-world
+   24  nano hello-world
+   25  chmod 744 heloo-world
+   26  chmod Hello-world
+   27  ls
+   28  chmod 744 hello-world
+   29  chmod 744 hello-world 
+   30  ls -lt
+   31  ./hello-world 
+   32  `/home/
+
+
+
+quit
+   33  clear
+   34  echo $PATH
+   35  PATH=$PATH
+   36  echo $PATH
+   37  PATH=$PATH:/home/user:~:.
+   38  echo $PATH
+   39  hello-world 
+   40  echo $PATH
+   41  he
+   42  hello-world 
+   43  history
+   44  git clone https://github.com/Edza42/RTR105
+   45  ls -lt
+   46  nv hello-world RTR105_2022_V02/
+   47  cd hello-world
+   48  ls -lt
+   49  pwd
+   50  ls -lt
+   51  cd RTR105
+   52  ls -lt
+   53  -/
+   54  nano git upload
+   55  ls -lt
+   56  cat git-upload 
+   57  chmod 744 git-upload 
+   58  ls -lt
+   59  history
+   60  history > history_20220923.txt 
