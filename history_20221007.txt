@@ -1,0 +1,25 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ortus
+    4  firefox
+    5  echo "012345\n6789\tabcde\cvfghijk\blmnop\rqr"
+    6  man echo
+    7  echo -e "012345\n6789\tabcde\cvfghijk\blmnop\rqr"
+    8  git clone https://github.com/Edza42/RTR105
+    9  pwd
+   10  cd RTR105/
+   11  mkdir Class_08
+   12  cd Class_08
+   13  nano Class_08_printf_test.c
+   14  nano Class_08_scanf_test.c
+   15  ls 0lt
+   16  ls -lt
+   17  gcc Class_08_printf_test.c -o printf.test.out
+   18  ls -lt
+   19  ./printf.test.out
+   20  nano Class_08_printf_test.c
+   21  ./printf.test.out
+   22  nano Class_08_scanf_test.c
+   23  cd RTR105
+   24  cd /home/user/RTR105/
+   25  history > history_20221007.txt
