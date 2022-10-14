@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Edza42/RTR105
+    4  cd home/user/RTR105
+    5  pwd
+    6  cd RTR105
+    7  mkdir Class_09
+    8  cd Class_09
+    9  nano char_data_type_tests.c
+   10  history -> history_20221014.txt
+   11  history > history_20221014
