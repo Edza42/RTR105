@@ -1,0 +1,47 @@
+    1* 
+    2  quartus
+    3  git clone https://github.com/Edza42/RTR105
+    4  cd/RTR105
+    5  cd RTR105
+    6* 
+    7  gcc operation_tests.c -o operations_test.out
+    8  gcc operations_tests.c -o operations_test.out
+    9  ./operations_test.out
+   10  nano operations_tests.c
+   11  ls -lt
+   12  nano operations_tests.c
+   13  nano izmeginajuma_operations_tests.c
+   14  ls -lt
+   15  operations_test.c gcc operations_tests.out
+   16  operations_test.c gcc -o operations_tests.out
+   17  gcc operations_test.c -o operations_tests.out
+   18  ls -lt
+   19  pwd
+   20  cd/RTR105/Class_11
+   21  cd/home/user/RTR105/Class_11
+   22  nano if_tests.c
+   23  gcc if_tests.c -o if_tests.out
+   24  nano if_tests.c
+   25  gcc if_tests.c -o if_tests.out
+   26  nano if_tests.c
+   27  gcc if_tests.c -o if_tests.out
+   28  ls -lt
+   29  nano if_tests.c
+   30  cd Class_11
+   31  mkdir Class_11
+   32  cd Class_11
+   33  mv ../if_tests.c ./
+   34  ls -lt
+   35  cd ..
+   36  ls -lt
+   37  cd Class_10
+   38  mkdir Class_10
+   39  mv ./operations_test.c ./Class_10/
+   40  mv ./operations_tests.c ./Class_10/
+   41  ls -lt
+   42  ls Class_10
+   43  ls Class_11
+   44  ls -lt
+   45  rm 'Class 1' 
+   46  ls -lt
+   47  history > history.21102022
