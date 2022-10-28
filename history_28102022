@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git upload https://github.com/Edza42/RTR105
+    5  git-upload https://github.com/Edza42/RTR105
+    6  ./git upload https://github.com/Edza42/RTR105
+    7  git upload https://github.com/Edza42/RTR105
+    8  git --help
+    9  git clone https://github.com/Edza42/RTR105
+   10  pwd
+   11  cd RTR105/
+   12  mkdir Class_12
+   13  cd Class_12
+   14  nano loops.txt
+   15  nano while_tests.c
+   16  nano for_tests.c
+   17  nano do_while_tests.c
+   18  nano factorial.c
+   19  cd RTR105
+   20  cd RTR105/
+   21  cd home/user/RTR105
+   22  cd ./RTR105
+   23  cd user/home/RTR105
+   24  cd /user/home/RTR105
+   25  cd ...
+   26  cd ..
+   27  history > history_28102022

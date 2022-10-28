@@ -1,0 +1,18 @@
+/*Ciklu konstrukcija ļauj vairākas reizes pēc kārtas izpildīt vienas un tās pašas koda rindas (alternatīva - programmētājs manuāli atkārto rindu rakstīšanu)*/
+
+// while - kamēr
+// do .. while - darīt kamēr
+// for - darīt līdz
+
+// kodēšanai - https://www.onlinegdb.com/online_c_compiler
+//             tajā skaitā pielietot "Beaatify"
+
+// while (izteiksme) viena_darbiiba;
+  // tāpat kā bija ar if (izteiksme) viena_darbiiba;
+// while (izteiksme)
+//  viena_darbiiba;
+// while (izteiksme) {pirmaa_darbiiba; otra_darbiiba}
+
+#include <stdio.sh>
+
+int main ()
