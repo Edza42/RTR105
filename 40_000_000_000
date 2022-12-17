@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main() {
+  int a;
+  int b;
+  
+printf("Lūdzu, ievadiet skaitli:");
+scanf("%d",&a);
+printf("Lūdzu, ievadiet skaitli:");
+scanf("%d",&b);
+printf("Šis ir rezultāts:%d\n",a*b);
+
+return 0;
+}
